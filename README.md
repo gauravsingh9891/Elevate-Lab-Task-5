@@ -1,5 +1,4 @@
 # Joins On Tables
-
 -> There are mainly 3 Category of Join and Under which there are Joins typs
 
         1) INNER JOIN
